@@ -1,0 +1,6 @@
+C:\dev\polly\Echo\bin\Release\netcoreapp1.0\Echo.deps.json
+C:\dev\polly\Echo\bin\Release\netcoreapp1.0\Echo.dll
+C:\dev\polly\Echo\bin\Release\netcoreapp1.0\Echo.pdb
+C:\dev\polly\Echo\obj\Release\netcoreapp1.0\Echo.AssemblyInfo.cs
+C:\dev\polly\Echo\obj\Release\netcoreapp1.0\Echo.dll
+C:\dev\polly\Echo\obj\Release\netcoreapp1.0\Echo.pdb

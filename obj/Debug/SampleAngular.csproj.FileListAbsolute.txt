@@ -1,0 +1,17 @@
+C:\git\MyProjects\SampleAngular\SampleAngular\bin\SampleAngular.dll
+C:\git\MyProjects\SampleAngular\SampleAngular\bin\SampleAngular.pdb
+C:\git\MyProjects\SampleAngular\SampleAngular\obj\Debug\SampleAngular.dll
+C:\git\MyProjects\SampleAngular\SampleAngular\obj\Debug\SampleAngular.pdb
+C:\git\MyProjects\SampleAngular\SampleAngular\obj\Debug\SampleAngular.csprojResolveAssemblyReference.cache
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\SampleAngular.dll.config
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\SampleAngular.dll
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\SampleAngular.pdb
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\HLib.dll
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\itextsharp.dll
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\Newtonsoft.Json.dll
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\NLog.dll
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\NLog.Extended.dll
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\bin\HLib.pdb
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\obj\Debug\SampleAngular.csprojResolveAssemblyReference.cache
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\obj\Debug\SampleAngular.dll
+C:\dev\git\MyProjects\SampleAngular\SampleAngular\obj\Debug\SampleAngular.pdb
