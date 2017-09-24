@@ -1,2 +1,3 @@
-# ang-web-api-seed
-seed project that has angularJS, a webapi controller, and forms authentication... based on existing project.. this is NOT clean and tidy
+# aws-polly
+
+project that usilizes aws polly text to speech service.. also provides a simple skeleton for AngularJS 1.x development with C#/WebAPI backend
